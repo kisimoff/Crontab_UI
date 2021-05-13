@@ -1,5 +1,5 @@
 # Bash-Crontab-User-Interface
-![image](crontabimg.png)
+![image](crontabimg.jpg)
 
 
 To run the program you have to import the code in linux .sh file. 
